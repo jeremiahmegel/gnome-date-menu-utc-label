@@ -1,0 +1,10 @@
+{
+	"uuid": "date-menu-utc-label@jer.dev",
+	"name": "Date Menu UTC Label",
+	"version": 1,
+	"description": "Rename \"Coordindated Universal Time (UTC)\" to \"UTC\" in World Clocks section",
+	"url": "https://github.com/jeremiahmegel/gnome-date-menu-utc-label",
+	"shell-version": [
+		"3.36"
+	]
+}
